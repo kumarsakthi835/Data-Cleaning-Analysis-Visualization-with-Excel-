@@ -117,12 +117,6 @@ Pivot Tables for advanced summarization:
 
 <img width="557" height="311" alt="image" src="https://github.com/user-attachments/assets/b0773525-4851-4af0-b28a-8c126553f5f2" />
 
-Statistics:
-<img width="164" height="219" alt="image" src="https://github.com/user-attachments/assets/7ff9202f-1ca9-4091-863f-7088bcca3ec8" />
-
-
-Data visualization & Dashboard:
-<img width="556" height="313" alt="image" src="https://github.com/user-attachments/assets/1db08d8e-3291-4a6e-8316-87a88b036066" />
 
 
 
