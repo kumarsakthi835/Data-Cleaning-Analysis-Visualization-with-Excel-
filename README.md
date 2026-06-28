@@ -101,11 +101,12 @@ Calculations, summaries, and logical/text operations:
 
 <img width="403" height="160" alt="image" src="https://github.com/user-attachments/assets/02e9d357-5c3d-48af-a6df-a38bcd22b058" />
 
-<img width="927" height="317" alt="image" src="https://github.com/user-attachments/assets/15512f58-51e5-4e94-8d1c-d7c238c65dd6" />
+
 
 VLOOKUP:
+<img width="457" height="293" alt="image" src="https://github.com/user-attachments/assets/1dc5f1ac-d695-446a-a0d7-c954fd1c4e08" />
 
-<img width="384" height="148" alt="image" src="https://github.com/user-attachments/assets/aa984cfc-49b1-4706-9995-9908dbb6db6e" />
+
 
 Pivot Tables for advanced summarization:
 
