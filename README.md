@@ -98,7 +98,9 @@ Handle missing/inconsistent data:
 Calculations, summaries, and logical/text operations:
 
 <img width="926" height="236" alt="image" src="https://github.com/user-attachments/assets/3a0de1ea-655b-4e6a-acd6-ba3f35a05682" />
+
 <img width="403" height="160" alt="image" src="https://github.com/user-attachments/assets/02e9d357-5c3d-48af-a6df-a38bcd22b058" />
+
 <img width="927" height="317" alt="image" src="https://github.com/user-attachments/assets/15512f58-51e5-4e94-8d1c-d7c238c65dd6" />
 
 VLOOKUP:
@@ -108,14 +110,19 @@ VLOOKUP:
 Pivot Tables for advanced summarization:
 
 <img width="476" height="312" alt="image" src="https://github.com/user-attachments/assets/60ae4edf-6173-4a5b-aa95-6b7b0c19dab5" />
+
 <img width="766" height="274" alt="image" src="https://github.com/user-attachments/assets/aa438a5b-f233-4cd7-af75-fe39d50d67d2" />
+
 <img width="175" height="233" alt="image" src="https://github.com/user-attachments/assets/354ec300-bca7-4e62-94d5-ef6f4f370b5f" />
+
 <img width="557" height="311" alt="image" src="https://github.com/user-attachments/assets/b0773525-4851-4af0-b28a-8c126553f5f2" />
 
 Statistics:
-![Uploading image.png…]()
+<img width="164" height="219" alt="image" src="https://github.com/user-attachments/assets/7ff9202f-1ca9-4091-863f-7088bcca3ec8" />
+
 
 Data visualization & Dashboard:
-![Uploading image.png…]()
+<img width="556" height="313" alt="image" src="https://github.com/user-attachments/assets/1db08d8e-3291-4a6e-8316-87a88b036066" />
+
 
 
