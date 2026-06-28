@@ -107,6 +107,8 @@ This project demonstrates an end-to-end Excel data analysis workflow, including 
 
 <img width="403" height="160" alt="image" src="https://github.com/user-attachments/assets/02e9d357-5c3d-48af-a6df-a38bcd22b058" />
 
+<img width="756" height="259" alt="image" src="https://github.com/user-attachments/assets/78089d73-bb44-480c-9d0b-e4ccd642e5ec" />
+
 
 
                   VLOOKUP:
