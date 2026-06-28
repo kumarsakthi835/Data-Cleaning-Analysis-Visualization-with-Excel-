@@ -126,10 +126,11 @@ This project demonstrates an end-to-end Excel data analysis workflow, including 
 
 <img width="518" height="179" alt="image" src="https://github.com/user-attachments/assets/62268914-7f92-46d6-91fb-a4501127d2e0" />
 
-          Statistics
+                    Statistics
 
 
-                                                     <img width="164" height="219" alt="image" src="https://github.com/user-attachments/assets/67a131b3-f5de-41d7-b53e-08175332be82" />
+<img width="164" height="219" alt="image" src="https://github.com/user-attachments/assets/67a131b3-f5de-41d7-b53e-08175332be82" />
+                            
                             Dashboard
 
 
